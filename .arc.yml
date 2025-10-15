@@ -2,6 +2,7 @@ github:
   defaultBranch: main
   defaultReviewers:
     - '@serpro69'
+    - '@0xbad-bot'
   autoAssignReviewer: true
 diff:
   createAsDraft: false
