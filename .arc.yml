@@ -1,6 +1,7 @@
 github:
   defaultBranch: main
-  defaultReviewer: "serpro69"
+  defaultReviewers:
+    - '@serpro69'
   autoAssignReviewer: true
 diff:
   createAsDraft: false
