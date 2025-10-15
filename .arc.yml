@@ -1,0 +1,26 @@
+github:
+  defaultBranch: main
+  defaultReviewer: "serpro69"
+  autoAssignReviewer: true
+diff:
+  createAsDraft: false
+  autoUpdatePR: true
+  includeCommitMessages: true
+  enableStacking: true
+  defaultBase: ""
+  showStackingWarnings: true
+  templatePath: ""
+  requireTestPlan: true
+  linearEnabled: false
+  linearDefaultProject: ""
+land:
+  defaultMergeMethod: squash
+  deleteLocalBranch: true
+  deleteRemoteBranch: true
+  requireApproval: true
+  requireCI: true
+output:
+  verbose: false
+  quiet: false
+  json: false
+  color: true
